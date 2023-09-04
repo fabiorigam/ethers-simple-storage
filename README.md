@@ -3,15 +3,15 @@ Example on how to deploy and interact with a smart contract using the last versi
 
 ## How to use
 First install all the dependencies:
-'''
+```
 npm i
-'''
+```
 Then compile the smart contract:
-'''
+```
 npm run compile
-'''
+```
 Finally lanch the script:
-'''
+```
 tsc
 node dist/deploy.js
-'''
+```
